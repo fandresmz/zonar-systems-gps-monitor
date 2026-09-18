@@ -1,0 +1,6 @@
+{
+  "name": "Zonar Systems GPS Monitor",
+  "description": "Sistema proactivo de monitoreo telemático y proyección de fallos para flotas y dispositivos GPS con soporte multi-tenant y RBAC.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
